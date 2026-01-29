@@ -111,7 +111,6 @@ I specialize in building **responsive, scalable web applications** using the **M
 
 </div>
 
-
 ---
 
 ### 📫 Connect With Me

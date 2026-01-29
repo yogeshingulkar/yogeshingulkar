@@ -96,14 +96,16 @@ I specialize in building **responsive, scalable web applications** using the **M
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yogeshingulkar&show_icons=true&hide_border=true&theme=default" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yogeshingulkar&show_icons=true&hide_border=true&cache_seconds=1800" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yogeshingulkar&hide_border=true&theme=default" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yogeshingulkar&hide_border=true&cache_seconds=1800" height="180"/>
 
 </div>
 
 
 ---
+
+## 📊 LeetCode Stats
 
 <div align="center">
 

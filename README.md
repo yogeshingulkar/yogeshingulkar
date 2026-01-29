@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Yogesh Ingulkar 👋</h1>
 
-  <h3>Web Development • UI/UX Design • MERN Stack</h3>
+  <h3>Java Development • Automation • Graphics Design</h3>
 
   <p>
     <a href="https://ingulkar.netlify.app/">

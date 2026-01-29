@@ -92,14 +92,25 @@ I specialize in building **responsive, scalable web applications** using the **M
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yogeshingulkar&show_icons=true&hide_border=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yogeshingulkar&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yogeshingulkar&show_icons=true&hide_border=true&theme=default" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yogeshingulkar&hide_border=true&theme=default" height="180"/>
 
 </div>
+
+
+---
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/yogeshingulkar?theme=light&font=Fira%20Code&ext=contest" height="180"/>
+
+</div>
+
 
 ---
 

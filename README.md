@@ -4,16 +4,19 @@
   <h3>Java Development • Automation • Graphics Design</h3>
 
   <p>
-    <a href="https://ingulkar.netlify.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome" alt="Portfolio"/>
-    </a>
-    <a href="https://linkedin.com/in/yogesh-ingulkar">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:yogeshingulkar750@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
-    </a>
-  </p>
+  <a href="https://ingulkar.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <a href="https://linkedin.com/in/yogesh-ingulkar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:yogeshingulkar750@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 </div>
 
 ---

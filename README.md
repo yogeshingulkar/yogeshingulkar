@@ -1,6 +1,10 @@
 <div align="center">
   <h1>Hi there, I'm Yogesh Ingulkar 👋</h1>
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ninad+Karlekar;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
   <h3>Java Development • Automation • Graphics Design</h3>
 
   <p>

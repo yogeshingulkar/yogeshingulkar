@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-  <h3>Java Development • Automation • Graphics Design</h3>
+  <h3>Java Development • Manual & Automation • Graphics Designing</h3>
 
   <p>
   <a href="https://ingulkar.netlify.app/" target="_blank">

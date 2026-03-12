@@ -32,8 +32,8 @@ I’m **Yogesh Ingulkar**, a passionate **Web Developer** and **UI/UX Designer**
 
 I specialize in building **responsive, scalable web applications** using the **MERN stack**, while also crafting **clean, user-centric UI/UX designs**. I enjoy blending **logic with creativity** to deliver digital experiences that are both functional and visually engaging.
 
-- 🎓 Master’s Student in Computer Science (SPPU)
-- 💻 MERN Stack Web-App Developer
+- 🎓 Master’s Student in Computer Science (SPPU 2025)
+- 💻 FullStack Web-App Developer
 - 🎨 UI/UX & Creative Designer
 - 🌱 Continuously learning modern web & design trends
 

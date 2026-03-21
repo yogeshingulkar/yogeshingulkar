@@ -68,26 +68,6 @@ I specialize in building **responsive, scalable web applications** using the **M
 
 ---
 
-### 🚀 Featured Work
-
-#### 🔹 MERN Stack Web Applications
-- Developed multiple **full-stack applications** with responsive UI and optimized backend logic.
-- Implemented authentication, CRUD operations, and REST APIs.
-- Focused on performance, scalability, and clean code structure.
-
-#### 🔹 UI/UX Design Projects
-- Designed **user-centric interfaces** and interactive prototypes.
-- Worked on wireframes, user flows, and branding concepts.
-- Tools used: **Figma, Photoshop, Illustrator, Sketch**
-
-#### 🔹 Branding & Creative Design
-- Created logos, posters, and digital branding assets.
-- Delivered visually consistent designs aligned with brand identity.
-
-👉 *Explore more on my* **[Portfolio](https://ingulkar.netlify.app/)**
-
----
-
 ### 🎓 Education
 
 - **Master’s in Computer Science (2023–2025)**  

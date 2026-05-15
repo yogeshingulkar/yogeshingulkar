@@ -109,5 +109,5 @@ I specialize in building **responsive, scalable web applications** using the **M
 
 ---
 
-⭐ *“Code with logic, design with emotion, and build with purpose.”*  
+⭐ *“Code with logic, design with emotion, and test with purpose.”*  
 — **Yogesh Ingulkar**
